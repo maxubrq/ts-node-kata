@@ -232,3 +232,4 @@ Sau mỗi tầng, bạn viết 1 trang:
 38. [#038 - Connection Pool Tuning: simulate load + tune pool](./kata/kata038.md)
 39. [#039 - Data Validation in DB: Constraints vs App validation](./kata/kata039.md)
 40. [#40 - Hot Partition Fix: Shard key / Bucketing](./kata/kata040.md)
+41. [#041 - Max In-flight per Downstream](./kata/kata041.md)
